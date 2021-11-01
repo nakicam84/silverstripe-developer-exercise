@@ -5,7 +5,7 @@ There is no menu link for the blogs, but can be accessed via the enpoint:
 JSON API Route: 
 ``/posts/json``
 
-This setup is under a 'public' directory. Eg. E.g /var/www/public/app, /var/www/public/assets etc
+This setup is rrequired to be under a 'public' directory. Eg. E.g /var/www/public/app, /var/www/public/assets etc
 
 
 # Media Suite Silverstripe Coding Exercise
