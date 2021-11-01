@@ -1,3 +1,8 @@
+#Additional notes:
+
+JSON API Route: /posts/json
+
+
 # Media Suite Silverstripe Coding Exercise
 
 We’d like you to build a blogging platform!
