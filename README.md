@@ -2,6 +2,7 @@
 
 JSON API Route: /posts/json
 
+This setup is under a 'public' directory. Eg. E.g /var/www/public/app, /var/www/public/assets etc
 
 # Media Suite Silverstripe Coding Exercise
 
